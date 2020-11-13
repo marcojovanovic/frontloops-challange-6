@@ -4,4 +4,4 @@ Cilj projekta je odrzati formu u radu sa html/css iako prvenstveno se trudim da 
 
 Link projekta: 
 
-[link](https://sharp-bhabha-a61ee2.netlify.app/)
+[Pogledaj css projekat](https://sharp-bhabha-a61ee2.netlify.app/)
